@@ -1,5 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/Georgy5/Georgy5/blob/master/smiling_man_sunglasses.jpg" height="220px" alt="Smiling Man w/ shades" />
+  <br />
+  <br />
 
+  <p>Hello World</p>
+  <p>I want to become a good software developer.</p>
+  <p>🌱 I’m currently learning Web Development focused on Ruby on Rails</p>
+
+  <br />
+
+</div>
 <!--
 **devkeller/devkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
