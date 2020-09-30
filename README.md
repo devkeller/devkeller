@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Georgy5/Georgy5/blob/master/smiling_man_sunglasses.jpg" height="220px" alt="Smiling Man w/ shades" />
+  <img src="https://github.com/devkeller/devkeller/blob/master/smiling_man_sunglasses.jpg" height="220px" alt="Smiling Man w/ shades" />
   <br />
   <br />
 
